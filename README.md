@@ -1,2 +1,2 @@
 # GNNET
-Code is passing thru necessary patenting & NDA progress, we expect this could possibly be ready in 2023
+Code is passing thru necessary patenting & NDA process, we expect this could possibly be ready in 2023
